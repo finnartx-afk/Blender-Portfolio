@@ -94,3 +94,5 @@ Instagram: https://instagram.com/finn.artx
 Email: finn.artx@gmail.com
 
 ---
+
+Portfolio created by Finn.
