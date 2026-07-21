@@ -45,7 +45,7 @@ A warm and modern stylized living room designed to create a relaxing atmosphere 
 
 A stylized Vietnamese New Year room celebrating Tet with traditional decorations, lanterns, lucky red colors, and festive atmosphere.
 
-![Vietnamese Tet Room](Projects/Vietnamese-Tet-Room/renders/hero.png)
+![Vietnamese Tet](Projects/Vietnamese-Tet/renders/hero.png)
 
 
 ---
@@ -54,7 +54,7 @@ A stylized Vietnamese New Year room celebrating Tet with traditional decorations
 
 A colorful miniature lemonade stand created to practice stylized prop modeling, lighting, and product presentation.
 
-![Lemonade Stand](Projects/Lemonade-Pop-Up/renders/hero.png)
+![Lemonade Pop-Up](Projects/Lemonade-Pop-Up/renders/hero.png)
 
 
 ---
