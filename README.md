@@ -59,11 +59,11 @@ A colorful miniature lemonade stand created to practice stylized prop modeling, 
 
 ---
 
-## 🌲 Miniature Valley
+## 🌃 Cloud Station
 
-A peaceful low-poly landscape featuring waterfalls, forests, rivers, and seasonal vegetation.
+A futuristic isometric gas station featuring neon lighting, cyberpunk aesthetics, and cinematic environment design.
 
-![Miniature Valley](Projects/Miniature-Valley/renders/hero.png)
+![Cloud Station](Projects/Cloud-Station/renders/hero.png)
 
 ---
 
