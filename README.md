@@ -71,13 +71,13 @@ A futuristic isometric gas station featuring neon lighting, cyberpunk aesthetics
 
 A miniature vegetable garden showcasing stylized plants, landscaping, and natural outdoor composition.
 
-![Vegetable Garden](Projects/Lovely-Garden/renders/hero.png)
+![Lovely Garden](Projects/Lovely-Garden/renders/hero.png)
 
 ---
 
 # 👨‍💻 About Me
 
-I'm currently studying **Cybersecurity** while continuously improving my **3D Environment Art** skills using Blender.
+I'm currently studying **Cybersecurity** while continuously improving my **3D Art** skills using Blender.
 
 I enjoy creating stylized miniature scenes that combine creativity, storytelling, and technical modeling techniques.
 
