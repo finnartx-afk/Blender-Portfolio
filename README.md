@@ -50,11 +50,11 @@ A stylized Vietnamese New Year room celebrating Tet with traditional decorations
 
 ---
 
-## 🍋 Lemonade Stand
+## 🍋 Lemonade Pop-Up
 
 A colorful miniature lemonade stand created to practice stylized prop modeling, lighting, and product presentation.
 
-![Lemonade Stand](Projects/Lemonade-Stand/renders/hero.png)
+![Lemonade Stand](Projects/Lemonade-Pop-Up/renders/hero.png)
 
 
 ---
